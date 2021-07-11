@@ -6,7 +6,7 @@ namespace SourceControlVS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Advanced .Net Programming!");
         }
     }
 }
