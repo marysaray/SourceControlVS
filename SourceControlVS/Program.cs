@@ -8,7 +8,7 @@ namespace SourceControlVS
         /// In-Class Example of using source control features.
         /// </summary>
         /// <param name="args"></param>
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Welcome to Advanced .Net Programming!");
 
