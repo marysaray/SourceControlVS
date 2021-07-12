@@ -23,7 +23,7 @@ Initial source control with Visual Studio for the first week of Summer Quarter, 
             - Code review can take place to verify quality code before merging into your product.
             
         4.) Merge into Master/Main/Default 
-            - After pull request is reviewed and accepted it can be merged into the main branch.
+            - After pull request is reviewed and accepted it can be merged into the base branch.
     
 ### Agile Development Brief-Introduction
 
