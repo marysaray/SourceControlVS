@@ -13,7 +13,7 @@ namespace SourceControlVS
         /// Get a list of students from the database.
         /// </summary>
         /// <returns></returns>
-        public static List<string> GetAllStudents()
+        public static List<Student> GetAllStudents()
         {
             throw new NotFiniteNumberException();
         }
