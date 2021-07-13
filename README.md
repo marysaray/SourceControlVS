@@ -35,7 +35,7 @@ Initial source control with Visual Studio for the first week of Summer Quarter, 
             - Connection strings
             - Other credentials
        - What server should we use for development?
-            - Our whole team needs a consistend development experience
+            - Our whole team needs a consistent development experience.
        - What server should we use for production?
        - Let the database take care of:
             * Sorting - ORDER BY
